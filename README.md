@@ -1,2 +1,2 @@
-# A-Thing
+# A Thing
 no explanation
